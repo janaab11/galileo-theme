@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The Galileo Theme"
-date:   2015-11-15 13:05:14 +0100
-categories: jekyll theme
-location: Florence, Italy
+title:  "In Captions"
+date:   2019-08-17 12:00:00 +0530
+categories: tv
+location: Netflix
 ---
 
 Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
