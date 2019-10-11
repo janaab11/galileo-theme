@@ -4,7 +4,15 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  {% include post.html post=post content=post.content %}
+    <header>
+      <a href="{{ post.url | prepend: site.baseurl }}">
+          <h1 class="post-title">{{ post.title }}</h1>
+      </a>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A, %B %-d, %Y" }}</time>
+    </header>
+    <div class="post-body">
+      {% if post.location %}<a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank" class="post-body-location">{{ post.location }}</a><span class="post-body-location-divider">—</span>{% endif %}{{ post.excerpt }}
+    </div>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

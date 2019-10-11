@@ -6,7 +6,7 @@ categories: tv
 location: Netflix
 ---
 
-I remember the first season of Sacred Games for all the right reasons. Living in London at the time, it was a refreshing change to hear Nawaz and Saif cuss their way through ten hours of dark and delightful television. In Hindi. The off-handed familiar (and familial) swear words thrown into regular sentences, like peanuts in Poha, made me nostalgic for home. 
+I remember the first season of Sacred Games very fondly. Living in London at the time, it was a refreshing change to hear Nawaz and Saif cuss their way through eight hours of dark and delightful television. In Hindi. The off-handed familiar (and familial) swear words thrown into regular sentences, like peanuts in Poha, made me nostalgic for home. 
 
 And this wasn't just some perverse delight I had grown into, having grown-up in North India. My best friend, an hour away in Cambridge, shared the same excitement and enthusiasm about hearing Saif Ali Khan answer phone calls with a foul mouth. And he had exchanged India for England when he was 11.
 
@@ -29,10 +29,10 @@ I dont know how anyone keeps up with plots anymore. Coming on the heels of an ex
 </div>
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S1/4.png" />
+    <p class="post-image-caption">Captions change but Saif's expression doesn't. Hehyy..</p>
 </div>
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S1/5.png" />
-    <p class="post-image-caption"></p>
 </div>
 
 <p>Some captions maintained continuity across episodes.</p>
@@ -73,7 +73,7 @@ I dont know how anyone keeps up with plots anymore. Coming on the heels of an ex
 </div>
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S1/9.png" />
-    <p class="post-image-caption">This was the mood the season ended on</p>
+    <p class="post-image-caption">These captions are a mood</p>
 </div>
 
 ## Season 2
@@ -93,12 +93,19 @@ A day later than planned, but this season didn't disappoint either. The screenwr
 </div>
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S2/6.png" />
-    <p class="post-image-caption">Not too shabby</p>
+    <p class="post-image-caption">Old classics</p>
 </div>
 <div class="post-image post-image--split">
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S2/7.png" />
     <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S2/8.png" />
 </div>
+<div class="post-image">
+    <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S2/9.png" />
+</div>
+<div class="post-image">
+    <img src="{{site.baseurl}}/img/posts/2019-08-17-in-captions/S2/10.png" />
+</div>
+
 <p>
 For what they are, these screenwriters are pretty good. After all, they are in competition with real gems like this one.
 </p>
