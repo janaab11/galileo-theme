@@ -65,28 +65,6 @@ This is a place where people come to escape. From dull buildings that stretch a 
 </div>
 
 
-<div class="post-image post-image--split">
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/23.jpg" />
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/5.jpg" />
-</div>
-<div class="post-image">
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/6.jpg" />
-    <p class="post-image-caption">Lotus lake</p>
-</div>
-<div class="post-image post-image--split">
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/1.jpg" />
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/2.jpg" />
-</div>
-<div class="post-image post-image--split">
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/3.jpg" />
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/4.jpg" />
-    <p class="post-image-caption">The graduation ceremony is bit more fancier than Cambridge</p>
-</div>
-<div class="post-image">
-    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/best/1.jpg" />
-</div>
-
-
 <p>Some parks have abandoned amusement parks within</p>
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/park/3.jpg" />
@@ -106,4 +84,24 @@ This is a place where people come to escape. From dull buildings that stretch a 
 <div class="post-image">
     <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/park/11.jpg" />
     <p class="post-image-caption">Sunday fishing rituals</p>
+</div>
+
+
+<p></p>
+<div class="post-image post-image--split">
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/1.jpg" />
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/2.jpg" />
+</div>
+<div class="post-image">
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/6.jpg" />
+    <p class="post-image-caption">Lotus lake</p>
+</div>
+<p></p>
+<div class="post-image post-image--split">
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/3.jpg" />
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/4.jpg" />
+    <p class="post-image-caption">The graduation ceremony is bit more fancier than Cambridge</p>
+</div>
+<div class="post-image">
+    <img src="{{site.baseurl}}/img/posts/2019-04-24-streets-unknown/temple/10.jpg" />
 </div>
